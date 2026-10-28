@@ -1,5 +1,4 @@
 #include "SampleScene.h"
-
 #include "DummyEntity.h"
 #include "InputManager.h"
 #include "Debug.h"

@@ -1,7 +1,5 @@
 #pragma once
-
 #include "Scene.h"
-
 class DummyEntity;
 
 class SampleScene : public Scene
